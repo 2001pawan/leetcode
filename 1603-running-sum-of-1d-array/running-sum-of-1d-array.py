@@ -8,3 +8,6 @@ class Solution:
             result.append(currentsum)
 
         return result
+
+
+#accumulator pattern; past values accumulating for the next value
